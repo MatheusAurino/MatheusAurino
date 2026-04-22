@@ -5,7 +5,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas (IFPR), com foco em desenvolvimento backend e fullstack.
 
-Tenho experiência prática com Java, Spring Boot e React, desenvolvendo APIs REST com autenticação JWT, controle de acesso e integração com banco de dados.
+Tenho experiência práticas em projetos com Java, Spring Boot e React, desenvolvendo APIs REST com autenticação JWT, controle de acesso e integração com banco de dados.
 
 Busco evoluir como desenvolvedor construindo soluções bem estruturadas, com foco em performance, organização e boas práticas.
 ---
@@ -13,14 +13,12 @@ Busco evoluir como desenvolvedor construindo soluções bem estruturadas, com fo
 ## 🌐 Contatos
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/matheus-aurino-9a472523a/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-<p align="left">
-  <a href="matheusaurino87@gmail.com">
+  <a href="https://www.linkedin.com/in/matheus-aurino-9a472523a/" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> <a href="mailto:matheusaurino87@gmail.com" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
  
 
 
@@ -28,11 +26,14 @@ Busco evoluir como desenvolvedor construindo soluções bem estruturadas, com fo
 
 ## 🧠 O que eu faço
 
-🏗️ Desenvolvimento de APIs REST
-🔐 Autenticação e controle de acesso (JWT)
-💾 Integração com banco de dados (MySQL)
-⚙️ Desenvolvimento de projetos fullstack
----
+<ul>
+  <li>🏗️ Desenvolvimento de APIs REST</li>
+  <li>🔐 Autenticação e controle de acesso (JWT)</li>
+  <li>💾 Integração com banco de dados (MySQL)</li>
+  <li>⚙️ Desenvolvimento de projetos fullstack</li>
+</ul>
+
+
 
 ## 🛠️ Tech Stack
 
